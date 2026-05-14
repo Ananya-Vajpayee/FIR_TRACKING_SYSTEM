@@ -280,10 +280,6 @@ Track required documents:
 
 MIT License - Feel free to use for your projects!
 
-## 👨‍💻 Author
-
-Built for hackathon with ❤️ and ☕
-
 ## 🎉 Acknowledgments
 
 - Framer Motion for beautiful animations
