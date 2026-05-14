@@ -1,5 +1,4 @@
 # 🚨 FIR Tracking System
-
 A modern, real-time FIR (First Information Report) tracking system built with React, Node.js, MongoDB, and Socket.IO. Features a sleek black and orange aesthetic with smooth animations.
 
 ![FIR Tracking System](https://img.shields.io/badge/Status-Active-success)
