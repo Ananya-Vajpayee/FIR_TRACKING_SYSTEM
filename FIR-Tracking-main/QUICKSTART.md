@@ -207,6 +207,3 @@ Edit both:
 
 ## 🎉 You're All Set!
 
-Your FIR Tracking System is ready to impress the judges! 🏆
-
-Good luck with your hackathon! 🚀
