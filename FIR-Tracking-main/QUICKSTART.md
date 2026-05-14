@@ -1,6 +1,6 @@
 # 🚀 Start Guide - FIR Tracking System
 
-## Installation Order (Copy-Paste in VS Code Terminal)
+## Installation Order
 ### Step 1: Install Backend Dependencies
 ```bash
 cd backend
