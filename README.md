@@ -17,11 +17,6 @@ A modern, real-time FIR (First Information Report) tracking system built with Re
 - Instant notifications for FIR changes
 - No page refresh needed
 
-### 📊 Beautiful Dashboard
-- Modern black and orange theme
-- Smooth animations with Framer Motion
-- Responsive design for all devices
-
 ### 📝 FIR Management
 - Create new FIRs with detailed information
 - Track investigation progress
